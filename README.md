@@ -1,4 +1,4 @@
-# Delivery Assignment Optimization
+# Logistics/Delivery Optimization Assessment
 
 ## Overview
 This project distributes delivery tasks among agents efficiently based on priority and distance. The goal is to ensure high-priority deliveries are handled first while balancing the total distance assigned to each agent.
