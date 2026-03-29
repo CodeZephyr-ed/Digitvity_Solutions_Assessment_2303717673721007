@@ -1,0 +1,26 @@
+location_id,location_name,distance_km,priority,time_window,package_weight_kg,customer_contact
+L001,Adyar Market,4.2,High,09:00-11:00,2.5,+91-9876543210
+L002,T Nagar Hub,6.8,High,08:30-10:30,5.0,+91-9876543211
+L003,Velachery Zone,9.1,Medium,10:00-13:00,3.2,+91-9876543212
+L004,Anna Nagar West,11.5,High,09:00-11:00,1.8,+91-9876543213
+L005,Tambaram South,18.3,Low,13:00-17:00,4.5,+91-9876543214
+L006,Kodambakkam,7.4,Medium,11:00-14:00,2.1,+91-9876543215
+L007,Mylapore,5.6,High,08:00-10:00,6.0,+91-9876543216
+L008,Perambur North,13.2,Low,14:00-17:00,3.8,+91-9876543217
+L009,Sholinganallur,15.7,Medium,10:00-13:00,2.9,+91-9876543218
+L010,Porur Junction,12.4,Medium,11:00-14:00,5.5,+91-9876543219
+L011,Chromepet,16.8,Low,13:00-17:00,1.5,+91-9876543220
+L012,Guindy Estate,8.3,High,09:30-11:30,4.2,+91-9876543221
+L013,Nungambakkam,6.1,Medium,10:00-13:00,3.6,+91-9876543222
+L014,Egmore Central,4.8,High,08:00-10:00,2.8,+91-9876543223
+L015,Korattur,14.5,Low,14:00-18:00,5.1,+91-9876543224
+L016,Ambattur Industrial,17.2,Medium,11:00-15:00,4.0,+91-9876543225
+L017,Pallavaram,19.6,Low,13:00-17:00,2.3,+91-9876543226
+L018,Avadi Town,22.4,Low,14:00-18:00,3.9,+91-9876543227
+L019,Thiruvanmiyur,10.9,Medium,10:30-13:30,1.7,+91-9876543228
+L020,Besant Nagar,8.7,High,09:00-11:00,6.5,+91-9876543229
+L021,Poonamallee,20.1,Low,13:00-17:00,4.8,+91-9876543230
+L022,Villivakkam,12.8,Medium,11:00-14:00,2.2,+91-9876543231
+L023,Saidapet,5.3,High,08:30-10:30,3.4,+91-9876543232
+L024,Perungudi,13.6,Medium,10:00-13:00,5.8,+91-9876543233
+L025,Madipakkam,11.2,Low,14:00-17:00,1.9,+91-9876543234
