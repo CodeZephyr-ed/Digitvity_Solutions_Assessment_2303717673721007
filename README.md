@@ -63,4 +63,4 @@ L003,Velachery Zone,9.1,Medium,10:00-13:00,3.2,+91-9876543212
 
 1. Ensure Python and pandas are installed.  
 2. Place the `deliveries.csv` file in the same directory as the script.  
-3. Run the script:
+3. Run the script: python delivery_Optimization.py
